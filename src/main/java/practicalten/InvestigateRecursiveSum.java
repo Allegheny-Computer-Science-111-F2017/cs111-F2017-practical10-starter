@@ -17,8 +17,8 @@ public class InvestigateRecursiveSum {
     // TODO: Explain a written report where the base case and
     // recursive call are found in this method
 
-    // TODO: Given the value in number, how many files is this
-    // method going to recursively call itself?
+    // TODO: Given the value in number, write about how many times
+    // this method is going to recursively call itself.
     int result;
     if (number == 1) {
       result = 1;
