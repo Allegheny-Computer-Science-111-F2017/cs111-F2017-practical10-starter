@@ -36,7 +36,7 @@ This assignment requires a programmer to run a Java program, called
 `InvestigateRecursiveSum`, that will produce textual output containing the result
 of calling a recursive method. All of the methods for this
 program will be self-contained in the `InvestigateRecursiveSum` file. Please see
-the comments in the source code and the laboratory assignment sheet for more
+the comments in the source code and the practical assignment sheet for more
 details. As verified by [Checkstyle](https://github.com/checkstyle/checkstyle),
 the source code for the `InvestigateRecursiveSum.java` file must adhere to all of
 the requirements in the [Google Java Style
@@ -47,7 +47,7 @@ There are no GatorGrader checks for the source code in the
 report, stored in `writing/recursion.md` that identifies where the base case and
 recursive case are located in the source code. Then, you should examine the
 source code and run it several times with different input values. Your goal for
-this part of the laboratory assignment is to determine how many times the method
+this part of the practical assignment is to determine how many times the method
 will recursively call itself depending on the numerical value stored in its
 parameter. Please run the program, observe its output, try to understand how the
 recursive summation works, and then write about your understanding. So, the
@@ -67,7 +67,7 @@ assignment's due date.
 A carefully formatted assignment sheet for this project provides more details
 about the steps that a computer scientist should take to complete this
 assignment. You can view this assignment sheet by visiting the listing of
-laboratories on the course web site.
+practicals on the course web site.
 
 ## Learning
 
@@ -177,19 +177,19 @@ tool](https://github.com/gkapfham/gatorgrader) and the way that it checks you
 assignment, then you can follow the aforementioned steps to create an issue in
 its repository. To ensure that your issue is properly resolved, please provide
 as many details as is possible about the problem that you experienced. If you
-discover a problem with the laboratory assignment sheet, then please raise an
+discover a problem with the practical assignment sheet, then please raise an
 issue in the
 [cs111-F2017-lab-sheets](https://github.com/Allegheny-Computer-Science-111-F2017/cs111-F2017-lab-sheets)
 repository and mention this assignment.
 
 Students who find, and use the appropriate GitHub issue tracker to correctly
-document, a mistake in any aspect of this laboratory assignment will receive
+document, a mistake in any aspect of this practical assignment will receive
 free laptop stickers and extra credit towards their grade for it.
 
 ## Assistance
 
 If you are having trouble completing any part of this project, then please talk
-with either the course instructor or a teaching assistant during the laboratory
+with either the course instructor or a teaching assistant during the practical
 session. Alternatively, you may ask questions in the Slack team for this
 course. Finally, you can schedule a meeting during the course instructor's
 office hours.
