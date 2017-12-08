@@ -23,17 +23,12 @@ PROBLEMS?
 # cs111-F2017-practical10-solution
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Practical 10 in Computer Science 111.
-
-<!---
-
- Since the Travis builds for this repository will initially fail (as evidenced by
- a red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
- programmer is responsible for completing all of the steps needed to satisfy the
- requirements for the assignment, thus causing a &#x2714; to instead appear in
- the commit logs.
-
---->
+repository contains the solution for Practical 10 in Computer Science 111. Since
+the Travis builds for this repository will initially fail (as evidenced by a red
+&#x2717; appearing in the commit logs instead of a green &#x2714;), the
+programmer is responsible for completing all of the steps needed to satisfy the
+requirements for the assignment, thus causing a &#x2714; to instead appear in
+the commit logs.
 
 ## Introduction
 
